@@ -1,0 +1,11 @@
+InvoiceNumber,SalesDate, ProductName, UnitsSold, SalesValue,ShippingCost,SalesPeople,ShipToCity,ShipToCountry
+123,1/1/2014,Apples,1,0.45,10,"Chris",London,UK
+124,1/1/2014,Oranges, 2, 0.60,20,"Chris,Helen",Washington DC,USA
+125,2/2/2014,Apples,2,0.90,20,"HELEN",Dublin,Ireland
+126,2/2/2014,Oranges,1, 0.30,10,"Helen",Paris,France
+Invoice127,3/3/2014,Pears,5,1.00,40,"Chris",Berlin,Germany
+128,3/3/2014,Apples,3,1.20,30,"CHRIS,Natasha",Zurich,Switzerland
+129,3/3/2014,Oranges,3,.90,30,"Chris,Mimi",Oslo,Norway
+129,3/3/2014,Oranges,3,.90,30,"chris,mimi",Oslo,Norway
+130,3/4/2014,Grapes,1,2.00,100,"Helen,Natasha",Oslo,
+131,4/4/2014,Apples,1,0.45,10,"Chris",London,

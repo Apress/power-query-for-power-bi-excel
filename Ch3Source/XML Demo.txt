@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?><company><name>Crossjoin Consulting Ltd</name><country>UK</country></company>
+<?xml version="1.0" encoding="UTF-8"?><company><name>Microsoft Corporation</name><country>USA</country></company>
