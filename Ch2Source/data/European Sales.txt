@@ -1,0 +1,4 @@
+Date; Product; Sales
+01/01/2015; Apples; 1,101
+02/01/2015; Oranges; 1,202
+03/01/2015; Pears; 2,303

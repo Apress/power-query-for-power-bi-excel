@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+ <companyname>Crossjoin Consulting Ltd</companyname>
+ <country>UK</country>
+ <employees>
+  <employee>
+   <firstname>Chris</firstname>
+   <lastname>Webb</lastname>
+  </employee>
+  <employee>
+   <firstname>Helen</firstname>
+   <lastname>Lau</lastname>
+  </employee>
+ </employees>
+</company>
